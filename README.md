@@ -21,4 +21,3 @@ Connected these tables to Power BI.
 Modeled the data in Power BI, implementing star schema principles for optimized reporting.
 Built measures and a dashboard to derive insights from the transformed data.
 This project covered the entire data lifecycle, from raw ingestion to business insights, strengthening my expertise in Azure Data Factory, Databricks, Synapse, and Power BI.
-#End
